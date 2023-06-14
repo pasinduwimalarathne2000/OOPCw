@@ -1,0 +1,39 @@
+...................................................
+Doctor List :
+
+Medical licence number = 65
+Doctor Name = Denidu
+Doctor Surname =gamage
+Doctor Phone number =23456
+Doctor Date of Birth = Sat Jun 25 00:00:00 IST 2005
+Doctor Specialisation = Eye
+
+Medical licence number = 34
+Doctor Name = Shen
+Doctor Surname =Gamage
+Doctor Phone number =35678
+Doctor Date of Birth = Tue Apr 23 00:00:00 IST 1991
+Doctor Specialisation = skin
+
+Medical licence number = 1234
+Doctor Name = sanjula
+Doctor Surname =hewage
+Doctor Phone number =23456
+Doctor Date of Birth = Mon Sep 10 00:00:00 IST 2001
+Doctor Specialisation = skin
+
+Medical licence number = 98
+Doctor Name = Apeksha
+Doctor Surname =Senani
+Doctor Phone number =2345
+Doctor Date of Birth = Fri Feb 05 00:00:00 IST 1999
+Doctor Specialisation = skin
+
+Medical licence number = 2345
+Doctor Name = pasindu
+Doctor Surname =wimalarathne
+Doctor Phone number =23456
+Doctor Date of Birth = Wed Sep 20 00:00:00 IST 2000
+Doctor Specialisation = skin
+.......................................................
+Num of Doc:5

@@ -1,0 +1,11 @@
+...................................................
+Doctor List :
+
+Medical licence number = 23
+Doctor Name = pasindu
+Doctor Surname =wimalarathne
+Doctor Phone number =23457
+Doctor Date of Birth = Sun Sep 10 00:00:00 IST 2000
+Doctor Specialisation = sdge
+.......................................................
+Num of Doc:1
